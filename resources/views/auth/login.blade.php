@@ -8,7 +8,7 @@
         <meta name="keywords" content="fondo garantias del cafe, cdt, garantais, FGC">
         <meta name="description" content="fondo garantias del cafe se encanrga de ser codeudor del cliente ">
         <meta name="author" content="Sebastian Beltran Zapata">
-        <link rel="icon" href="{{ asset('img/logo.webp') }}" type="" />
+        <link rel="icon" href="{{ asset('img/logo_teje.png') }}" type="" />
         <link rel="stylesheet" href="{{ asset('css/login.css') }}">
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
@@ -20,7 +20,7 @@
             <div id="formContent">
                 {{--  <!-- Icon -->  --}}
                 <div class="fadeIn first mt-3 mb-3">
-                    <img src="{{ asset('img/logo_negro.png') }}" id="icon" alt="User Icon" />
+                    <img src="{{ asset('img/logo_teje.png') }}" id="icon" alt="User Icon" />
                 </div>
                 {{--  <!-- Login Form -->  --}}
                 <form class="box" method="POST" action="{{ route('login') }}">

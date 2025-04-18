@@ -75,7 +75,9 @@
 </head>
 <body>
 
-    <img src="{{ public_path('img/logo_negro.png') }}" alt="Logo" class="logo">
+    <img src="{{ public_path('img/logo_teje.png') }}" alt="Logo" class="logo">
+    <br>
+    <br>
     
     <div class="header">
       <h1>Productos</h1>
