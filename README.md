@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="public/img/logo_blanco.png" width="400" alt="InnClod"></a></p>
 
-## Importadora Yanpo
+## TejeTic
 
 Se realiza catalogo de productos  en el  framework laravel 10, livewire 2, bootstrap y MySQL las instrucciones de despliegue son las siguientes:
 
