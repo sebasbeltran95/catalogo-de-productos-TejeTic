@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/img/logo_blanco.png" width="400" alt="InnClod"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/img/logo_teje.png" width="400" alt="InnClod"></a></p>
 
 ## TejeTic
 
